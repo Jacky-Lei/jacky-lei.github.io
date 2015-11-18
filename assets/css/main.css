@@ -1828,7 +1828,7 @@
 		/* Wrappers */
 
 			.wrapper {
-				padding: 8em 0 8em 0;
+				padding: 5em 0 5em 0;
 				text-align: center;
 			}
 
@@ -1862,6 +1862,7 @@
 
 			#top {
 				text-align: left;
+				margin-top: -75px;
 			}
 
 				#top .image {
@@ -1875,7 +1876,7 @@
 				}
 
 				#top p {
-					font-size: 1.5em;
+					font-size: 1.15em;
 					line-height: 1.75em;
 				}
 
@@ -2124,3 +2125,21 @@
 	.resume-link {
 		color: green;
 	}
+
+	#intro-paragraph {
+		margin-bottom: -50px;
+	}
+
+.section-title {
+	text-decoration: underline;
+}
+
+#section-title-contact {
+	margin-top: -25px;
+	text-decoration: underline;
+	color: white;
+}
+
+.contact-section {
+	color: white;
+}
